@@ -17,7 +17,7 @@ Get the latest release of W1.Fortuner
 
 Get the latest release from [Github Release page.](https://github.com/W1ll1am04/W1.Fortuner/releases)
 
-Once you've got T1 installer from [Github Release page.](https://github.com/W1ll1am04/W1.Fortuner/releases)
+Once you've got W1.Fortuner installer from [Github Release page.](https://github.com/W1ll1am04/W1.Fortuner/releases)
 
 Install it normaly.
 
