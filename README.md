@@ -7,7 +7,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-You need * [Microsoft .Net 4.7.2 or heigher.](https://support.microsoft.com/nb-no/help/4054530/microsoft-net-framework-4-7-2-offline-installer-for-windows)
+You need:
+
+[Microsoft .Net 4.7.2 or heigher.](https://support.microsoft.com/nb-no/help/4054530/microsoft-net-framework-4-7-2-offline-installer-for-windows)
 
 After you have installed .Net 4.7.2 or heigher you can proceed.
 
