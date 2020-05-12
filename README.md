@@ -26,7 +26,7 @@ Install it normaly.
 Live demo:
 
 
-![imgur link?](https://i.imgur.com/aqoLLN4.png)
+![imgur link?](https://i.imgur.com/A8cmfNe.png)
 
 ## Built With
 
