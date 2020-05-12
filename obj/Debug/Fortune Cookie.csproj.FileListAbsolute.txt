@@ -1,0 +1,10 @@
+E:\Downloads\W1.Fortuner-master\W1.Fortuner-master\obj\Debug\Fortune Cookie.csprojAssemblyReference.cache
+E:\Downloads\W1.Fortuner-master\W1.Fortuner-master\obj\Debug\Fortune_Cookie.Form1.resources
+E:\Downloads\W1.Fortuner-master\W1.Fortuner-master\obj\Debug\Fortune_Cookie.Form2.resources
+E:\Downloads\W1.Fortuner-master\W1.Fortuner-master\obj\Debug\Fortune Cookie.csproj.GenerateResource.cache
+E:\Downloads\W1.Fortuner-master\W1.Fortuner-master\bin\Debug\Fortune Cookie.exe.config
+E:\Downloads\W1.Fortuner-master\W1.Fortuner-master\bin\Debug\Fortune Cookie.exe
+E:\Downloads\W1.Fortuner-master\W1.Fortuner-master\bin\Debug\Fortune Cookie.pdb
+E:\Downloads\W1.Fortuner-master\W1.Fortuner-master\obj\Debug\Fortune_Cookie.Properties.Resources.resources
+E:\Downloads\W1.Fortuner-master\W1.Fortuner-master\obj\Debug\Fortune Cookie.exe
+E:\Downloads\W1.Fortuner-master\W1.Fortuner-master\obj\Debug\Fortune Cookie.pdb
