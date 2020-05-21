@@ -10,9 +10,34 @@ namespace Fortune_Cookie
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void label1_MouseHover(object sender, EventArgs e)
+        {
+            label1.ForeColor = Color.Gray; // Set hover effect
+        }
+
+        private void label1_MouseLeave(object sender, EventArgs e)
+        {
+            label1.ForeColor = Color.Black; // disable hover effect
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            Form2 f2 = new Form2(); // define a new about form
+            f2.ShowDialog(); // display about form
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            get_fortune();
+        }
+
+        public void get_fortune()
+        {
             var random = new Random(); // define random
 
-            var list = new List<string> 
+            var list = new List<string>
             { // original cookies
                 "The fortune you seek is in another cookie.",
                 "A conclusion is simply the place where you got tired of thinking.",
@@ -35,20 +60,19 @@ namespace Fortune_Cookie
             fortune.Text = (list[index]); // display the fortune
         }
 
-        private void label1_MouseHover(object sender, EventArgs e)
+        private void label4_Click(object sender, EventArgs e)
         {
-            label1.ForeColor = Color.Gray; // Set hover effect
+            get_fortune();
         }
 
-        private void label1_MouseLeave(object sender, EventArgs e)
+        private void label4_MouseEnter(object sender, EventArgs e)
         {
-            label1.ForeColor = Color.Black; // disable hover effect
+            label4.ForeColor = Color.Gray; // Set hover effect
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void label4_MouseLeave(object sender, EventArgs e)
         {
-            Form2 f2 = new Form2(); // define about form
-            f2.ShowDialog(); // display about form
+            label4.ForeColor = Color.Black; // disable hover effect
         }
     }
 }
