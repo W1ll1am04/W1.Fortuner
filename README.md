@@ -23,10 +23,10 @@ Once you've got W1.Fortuner installer from [Github Release page.](https://github
 
 Install it normaly.
 
-Live demo:
+Demo:
 
 
-![imgur link?](https://i.imgur.com/A8cmfNe.png)
+![imgur link?](https://i.imgur.com/IPwHTjd.png)
 
 ## Built With
 
