@@ -34,7 +34,7 @@ Demo:
 
 ## Authors
 
-* **William Eriksen Ingebrigtsen** - *All work* - [W1ll1am04](https://github.com/W1ll1am04)
+* **William E.I** - *All work* - [W1ll1am04](https://github.com/W1ll1am04)
 
 See also the list of [contributors](https://github.com/W1ll1am04/W1.Fortuner/graphs/contributors) who participated in this project.
 
